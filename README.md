@@ -1,11 +1,3 @@
-# mycode
-Learning to Track my code
-1st time student interested in python and network automation
+This is code I wrote in a python and ansible class
 
-## Getting Started
-### Prerequisites
-## Built With 
-* [python](https://www.python.org/) - The coding language used
-## Authors
-* **Victoria Bishop** - *Initial work* - [Victoria](https://victoriasecret.com/)
-
+I want to learn how to version control projects with git
